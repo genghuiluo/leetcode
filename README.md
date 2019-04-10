@@ -11,4 +11,4 @@
 
 > references:
 
-1. 数据结构与算法（java）@掘金](https://juejin.im/post/5b3c30bde51d451964620710)
+1. [数据结构与算法（java）@掘金](https://juejin.im/post/5b3c30bde51d451964620710)
