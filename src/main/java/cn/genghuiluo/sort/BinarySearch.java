@@ -1,4 +1,4 @@
-package cn.genghuiluo.basic;
+package cn.genghuiluo.sort;
 
 /*
 * 二分查找法

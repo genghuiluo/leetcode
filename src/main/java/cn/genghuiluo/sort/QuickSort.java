@@ -1,4 +1,4 @@
-package cn.genghuiluo.basic;
+package cn.genghuiluo.sort;
 
 /*
 * 快速排序是 java 默认的排序算法，其基本思想是：

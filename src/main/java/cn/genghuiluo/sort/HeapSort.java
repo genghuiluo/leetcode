@@ -1,4 +1,4 @@
-package cn.genghuiluo.basic;
+package cn.genghuiluo.sort;
 
 /*
 * 堆排序

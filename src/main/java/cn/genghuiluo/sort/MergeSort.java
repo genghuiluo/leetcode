@@ -1,4 +1,4 @@
-package cn.genghuiluo.basic;
+package cn.genghuiluo.sort;
 
 /*
 * 归并排序的思想是：利用分治法，将一个数组分成两个子数组，对每个子数组分别排序，然后将排序好的子数组合并。
